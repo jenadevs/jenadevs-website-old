@@ -1,64 +1,54 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://jenadevs.github.io
+# baseurl: /softwerkskammer/
 
 # Site settings
-title: Awesome Title
+title: Softwerkskammer Jena
 email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Softwerkskammer Jena is a local Software Craftsmanship Community. We do talks, workshops & coding dojos. Our jenadevs meetup takes place monthly."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Benjamin Nothdurft
   pic: 1
-  position: Lead Designer
+  position: Organiser
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
+      url: http://twitter.com/dataduke
+    - title: github
+      url: http://github.com/dataduke
     - title: linkedin
-      url: #
+      url: http://www.linkedin.com/in/dataduke
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+- name: Oliver Zscheyge
+  pic: 2
+  position: Organiser
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: http://twitter.com/oozpy
+    - title: github
+      url: http://github.com/ooz
+
+- name: Andreas Grohman
+  pic: 3
+  position: Organiser
+  social:
+    - title: twitter
+      url: http://twitter.com/oozpy
+    - title: github
+      url: http://github.com/agrohmann
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: https://twitter.com/jenadevs
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/jenadevs
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Heinrich-Heine-Str. 1
+  - line: Jena, Germany
 
 # Build settings
 markdown: kramdown
