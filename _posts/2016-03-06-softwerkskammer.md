@@ -2,7 +2,7 @@
 title: Softwerkskammer
 subtitle: The Community Platform
 layout: default
-modal-id: 6
+modal-id: softwerkskammer
 img: roundicons.png
 thumbnail: roundicons-thumbnail.png
 alt: image-alt

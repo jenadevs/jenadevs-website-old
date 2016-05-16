@@ -10,7 +10,7 @@
             <div class="row">
             {% for post in site.posts %}
                 <div class="col-md-4 col-sm-6 portals-item">
-                    <a href="#portalsModal{{ post.modal-id }}" class="portals-link" data-toggle="modal">
+                    <a href="#{{ post.modal-id }}" class="portals-link" data-toggle="modal">
                         <div class="portals-hover">
                             <div class="portals-hover-content">
                                 <i class="fa fa-plus fa-3x"></i>
