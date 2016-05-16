@@ -1,6 +1,6 @@
 ---
-title: Softwerkskammer.org
-subtitle: The Communities Platform
+title: Softwerkskammer
+subtitle: The Community Platform
 layout: default
 modal-id: 6
 date: 2016-03-06
