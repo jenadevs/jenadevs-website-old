@@ -321,6 +321,14 @@ header .intro-text .intro-heading {
     }
 }
 
+.intro-text .intro-lead-in span {
+    background-color: #{{ site.data.template.color.muted }};
+}
+
+.intro-text .intro-heading span {
+    background-color: #{{ site.data.template.color.muted }};
+}
+
 section {
     padding: 100px 0;
 }
