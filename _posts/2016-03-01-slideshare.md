@@ -5,7 +5,7 @@ layout: default
 modal-id: slideshare
 img: treehouse.png
 thumbnail: treehouse-thumbnail.png
-alt: image-alt
+alt: Slideshare
 description: Here we share our presentations.
 url: http://jenadevs.org
 
