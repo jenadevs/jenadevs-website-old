@@ -299,12 +299,12 @@ header .intro-text .intro-heading {
 
 .intro-text .intro-lead-in span {
     background-color: rgba(34, 34, 34, 0.7); /** muted color */
-    line-height: 65px;
+    line-height: 47px;
 }
 
 .intro-text .intro-heading span {
     background-color: rgba(34, 34, 34, 0.7); /** muted color */
-    line-height: 100px;
+    line-height: 75px;
 }
 
 @media(min-width:768px) {
