@@ -5,7 +5,7 @@ layout: default
 modal-id: softwerkskammer
 img: roundicons.png
 thumbnail: roundicons-thumbnail.png
-alt: image-alt
+alt: Softwerkskammer
 description: The Software Craftsmanship Communities Platform.
 url: http://www.softwerkskammer.org/groups/jena
 
