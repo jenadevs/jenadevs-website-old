@@ -297,6 +297,16 @@ header .intro-text .intro-heading {
     line-height: 50px;
 }
 
+.intro-text .intro-lead-in span {
+    background-color: rgba(34, 34, 34, 0.7); /** muted color */
+    line-height: 65px;
+}
+
+.intro-text .intro-heading span {
+    background-color: rgba(34, 34, 34, 0.7); /** muted color */
+    line-height: 100px;
+}
+
 @media(min-width:768px) {
     header .intro-text {
         padding-top: 300px;
@@ -308,7 +318,7 @@ header .intro-text .intro-heading {
         font-family: {{ site.data.template.font.secondary }};
         font-size: 40px;
         font-style: italic;
-        line-height: 65px;
+        line-height: 40px;
     }
 
     header .intro-text .intro-heading {
@@ -319,14 +329,6 @@ header .intro-text .intro-heading {
         font-weight: 700;
         line-height: 100px;
     }
-}
-
-.intro-text .intro-lead-in span {
-    background-color: rgba(34, 34, 34, 0.7); /** muted color */
-}
-
-.intro-text .intro-heading span {
-    background-color: rgba(34, 34, 34, 0.7); /** muted color */
 }
 
 section {
