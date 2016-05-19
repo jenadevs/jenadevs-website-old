@@ -322,11 +322,11 @@ header .intro-text .intro-heading {
 }
 
 .intro-text .intro-lead-in span {
-    background-color: #{{ site.data.template.color.muted }};
+    background-color: rgba(34, 34, 34, 0.6); /** muted color */
 }
 
 .intro-text .intro-heading span {
-    background-color: #{{ site.data.template.color.muted }};
+    background-color: rgba(34, 34, 34, 0.6); /** muted color */
 }
 
 section {
