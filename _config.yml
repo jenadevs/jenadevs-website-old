@@ -11,7 +11,7 @@ description: "Softwerkskammer Jena is a local Software Craftsmanship Community. 
 people:
 - name: Benjamin Nothdurft
   pic: 1
-  position: Organizer, DevOps, Continuous Delivery, Java Stack, Docker
+  position: Organizer, DevOps, Continuous Delivery, Java Stack, Test Automation, Docker
   social:
     - title: twitter
       url: http://twitter.com/dataduke
@@ -22,7 +22,7 @@ people:
 
 - name: Oliver Zscheyge
   pic: 2
-  position: Organizer, Backend Developer, Functional Programming, Python 
+  position: Organizer, Backend Developer, Functional Programming, Python, Vim 
   social:
     - title: twitter
       url: http://twitter.com/oozpy
