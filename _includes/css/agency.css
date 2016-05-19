@@ -317,16 +317,16 @@ header .intro-text .intro-heading {
         font-family: {{ site.data.template.font.primary }};
         font-size: 75px;
         font-weight: 700;
-        line-height: 75px;
+        line-height: 100px;
     }
 }
 
 .intro-text .intro-lead-in span {
-    background-color: rgba(34, 34, 34, 0.6); /** muted color */
+    background-color: rgba(34, 34, 34, 0.7); /** muted color */
 }
 
 .intro-text .intro-heading span {
-    background-color: rgba(34, 34, 34, 0.6); /** muted color */
+    background-color: rgba(34, 34, 34, 0.7); /** muted color */
 }
 
 section {
