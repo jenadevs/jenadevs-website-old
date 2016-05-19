@@ -1,9 +1,9 @@
-url: http://jenadevs.github.io
+url: http://www.jenadevs.org
 # baseurl: /softwerkskammer/
 
 # Site settings
-title: Softwerkskammer Jena
-email: your-email@domain.com
+title: jenadevs
+email: jena@softwerkskammer.org
 description: "Softwerkskammer Jena is a local Software Craftsmanship Community. We do talks, workshops & coding dojos. Our jenadevs meetup takes place monthly."
 
 
@@ -11,7 +11,7 @@ description: "Softwerkskammer Jena is a local Software Craftsmanship Community. 
 people:
 - name: Benjamin Nothdurft
   pic: 1
-  position: Organiser
+  position: Organizer, DevOps, Docker, Java, Continuous Delivery
   social:
     - title: twitter
       url: http://twitter.com/dataduke
@@ -22,7 +22,7 @@ people:
 
 - name: Oliver Zscheyge
   pic: 2
-  position: Organiser
+  position: Organizer, Backend Dev, Python, Functional Programming
   social:
     - title: twitter
       url: http://twitter.com/oozpy
@@ -31,7 +31,7 @@ people:
 
 - name: Andreas Grohman
   pic: 3
-  position: Organiser
+  position: Organizer, Backend Dev, Ruby on Rails, Android
   social:
     - title: twitter
       url: http://twitter.com/oozpy
