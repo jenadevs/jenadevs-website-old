@@ -38,9 +38,9 @@ people:
   position: Organizer, Senior Software Engineer, Ruby on Rails, Docker, Microservices, CoreOS, Perl, Android
   social:
     - title: site
-      url: https://www.andreas-grohmann.com/
+      url: http://www.andreas-grohmann.com/
     - title: twitter
-      url: https://twitter.com/grohmeo
+      url: http://twitter.com/grohmeo
     - title: github
       url: http://github.com/agrohmann
     - title: facebook
