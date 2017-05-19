@@ -17,8 +17,12 @@ people:
       url: http://twitter.com/dataduke
     - title: github
       url: http://github.com/dataduke
+    - title: facebook
+      url: http://www.facebook.com/dataduke
     - title: linkedin
       url: http://www.linkedin.com/in/dataduke
+    - title: xing
+      url: http://www.xing.com/profile/Benjamin_Nothdurft2
 
 - name: Oliver Zscheyge
   pic: 2
@@ -34,9 +38,15 @@ people:
   position: Organizer, Backend Developer, Ruby on Rails, Perl, Android
   social:
     - title: twitter
-      url: http://twitter.com/oozpy
+      url: https://twitter.com/grohmeo
     - title: github
       url: http://github.com/agrohmann
+    - title: facebook
+      url: http://www.facebook.com/andreas.grohmann
+    - title: linkedin
+      url: http://www.linkedin.com/in/andreas-grohmann
+    - title: xing
+      url: http://www.xing.com/profile/Andreas_Grohmann7
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
