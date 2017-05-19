@@ -13,10 +13,12 @@ people:
   pic: 1
   position: Organizer, DevOps, Continuous Delivery, Java Stack, Test Automation, Docker
   social:
+    - title: medium
+      url: http://www.medium.com/dataduke
     - title: twitter
-      url: http://twitter.com/dataduke
+      url: http://www.twitter.com/dataduke
     - title: github
-      url: http://github.com/dataduke
+      url: http://www.github.com/dataduke
     - title: facebook
       url: http://www.facebook.com/dataduke
     - title: linkedin
@@ -29,20 +31,20 @@ people:
   position: Organizer, Backend Developer, Functional Programming, Python, Vim 
   social:
     - title: twitter
-      url: http://twitter.com/oozpy
+      url: http://www.twitter.com/oozpy
     - title: github
-      url: http://github.com/ooz
+      url: http://www.github.com/ooz
 
 - name: Andreas Grohman
   pic: 3
   position: Organizer, Senior Software Engineer, Ruby on Rails, Docker, Microservices, CoreOS, Perl, Android
   social:
-    - title: site
+    - title: medium
       url: http://www.andreas-grohmann.com/
     - title: twitter
-      url: http://twitter.com/grohmeo
+      url: http://www.twitter.com/grohmeo
     - title: github
-      url: http://github.com/agrohmann
+      url: http://www.github.com/agrohmann
     - title: facebook
       url: http://www.facebook.com/andreas.grohmann
     - title: linkedin
@@ -53,9 +55,9 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jenadevs
+    url: http://www.twitter.com/jenadevs
   - title: github
-    url: http://github.com/jenadevs
+    url: http://www.github.com/jenadevs
 
 # Postal address (add as many lines as necessary)
 address:
