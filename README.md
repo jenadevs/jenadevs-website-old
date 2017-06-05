@@ -1,4 +1,4 @@
-# [jenadevs.org](http://jenadevs.org)
+# [www.jenadevs.org](http://www.jenadevs.org)
 
 The site of [jenadevs · Softwerkskammer Jena](http://www.softwerkskammer.org/groups/jena).
 
